@@ -1,1 +1,1 @@
-# ToggenMiner-0.1-alpha
+# ToggenMiner-0.1
